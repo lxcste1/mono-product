@@ -4,6 +4,13 @@ export default function PaymentMethod() {
     return (
         <>  
             <Box py={2}>
+                <Box>
+                    <FormControl py={2}>
+                            <FormLabel mb={0}>Cód. de validación</FormLabel>
+                            <Input placeholder='' />
+                            <FormHelperText>Proporcionado por el profesional para validar la receta.</FormHelperText>
+                        </FormControl>
+                </Box>
                 <Select placeholder="Método de pago" py={2}>
                     <option value='option1'>Tarjeta de crédito</option>
                     <option value='option2'>Tarjeta de débito</option>
@@ -24,7 +31,7 @@ export default function PaymentMethod() {
                         </FormControl>
                         <FormControl>
                             <FormLabel mb={0}>Cód. de seguridad</FormLabel>
-                            <Input htmlSize={3} placeholder='' />
+                            <Input htmlSize={3} placeholder='CVV' />
                         </FormControl>
                     </Flex>
                     <FormControl py={2}>
