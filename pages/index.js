@@ -37,7 +37,7 @@ export default function Home() {
         </Box>
         <Box py={2}>
           <Text fontSize='xl' fontWeight={800}>Descripción</Text>
-          <Text>{data[0].description}</Text>
+          <Text textAlign={"justify"}>{data[0].description}</Text>
         </Box>
       </Container>
       <BuyButton />
