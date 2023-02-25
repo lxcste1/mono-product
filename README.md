@@ -12,7 +12,7 @@ The truth is that the world changed, a while ago. Little by little, paper is goi
 For this pilot test, a single product will be used, which must be prescribed:
 Amoxidal (amoxcicillin).
 
-## How does it work
+### How does it work
 
 First, the professional must share a single-use code with the patient, generated in the following administrator panel:
 
