@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+#SPARK Challenges
+
+Create the most amazing single product/service shopping experience you've ever imagined.
+
+
 ## Introduction
 
 A few days ago, the Ministry of Health of the Argentine Nation issued a statement in which it announced the disavowal of digital prescriptions:
