@@ -23,7 +23,7 @@ First, the professional must share a single-use code with the patient, generated
 
 ![alt text](https://cdn.discordapp.com/attachments/839873725305192459/1079072775060328598/iphone_14_pro_-_2.png)
 
-Then, the patient must scan the QR code present in the packaging of a medication. You will automatically be redirected to the product page where you can view the price, the prospectus, the description of the medication, and finalize your purchase.
+Then, the patient must scan the QR code present on the packaging of a medication. The patient will be automatically redirected to the product page where they can see the price, the package insert, the description of the drug and finalize their purchase.
 
 Product page:
 
